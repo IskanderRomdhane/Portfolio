@@ -99,7 +99,7 @@ export const projects = [
     des: "Developed an interactive food management app integrating food APIs for nutritional insights and AI-powered food recognition to enhance meal tracking experiences.",
     img: "/foody.webp",
     iconLists: ["/React.png", "/spring.png", "/docker.webp", "/tail.svg"],
-    link: "https://foody-mx61.vercel.app/",
+    link: "https://foodyappai.vercel.app/",
   }
   
   
