@@ -74,7 +74,7 @@ export const projects = [
     title: "EasyScraper - Google Search Scraper",
     des: "Developed a Python-based tool using Selenium capable of scraping thousands of Google search results daily, automating data collection and reporting processes efficiently.",
     img: "/web_crawler.avif",
-    iconLists: ["/selenium.png", "/python.png"],
+    iconLists: ["/selenium.png", "/python.webp"],
     link: "https://github.com/IskanderRomdhane/EasyScraper",
   },
   {
@@ -90,7 +90,7 @@ export const projects = [
     title: "MediAI - Medical Diagnostic System",
     des: "Implemented an AI-powered medical diagnostic system utilizing machine learning models for accurate disease prediction, leveraging Scikit-learn and data visualization libraries.",
     img: "/MediAi.webp",
-    iconLists: ["/pandas.svg", "/python.png", "/scikit.png", "/seaborn.svg"],
+    iconLists: ["/pandas.svg", "/python.webp", "/scikit.png", "/seaborn.svg"],
     link: "https://github.com/IskanderRomdhane/ML-Medical-Diagnosis",
   },
   {
