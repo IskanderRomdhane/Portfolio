@@ -104,7 +104,7 @@ export const projects = [
     id: 5,
     title: "WeFitness - Exercises Recommendation platform",
     des: "A web app that helps users discover and explore a variety of exercises based on body parts, equipment, or target muscles.",
-    img: "/wefitnessicon.webp",
+    img: "/wefitnessicon.jpg",
     iconLists: ["/React.png", "/css.png"],
     link: "https://wefitness-app.vercel.app/",
   }
