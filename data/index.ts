@@ -100,6 +100,13 @@ export const projects = [
     img: "/foody.webp",
     iconLists: ["/React.png", "/spring.png", "/docker.webp", "/tail.svg"],
     link: "https://foodyappai.vercel.app/",
+  },{
+    id: 5,
+    title: "WeFitness - Exercises Recommendation platform",
+    des: "A web app that helps users discover and explore a variety of exercises based on body parts, equipment, or target muscles.",
+    img: "/wefitness.png",
+    iconLists: ["/React.png", "/css.png"],
+    link: "https://wefitness-app.vercel.app/",
   }
   
   
