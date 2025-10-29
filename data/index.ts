@@ -107,7 +107,15 @@ export const projects = [
     img: "/wefitnessicon.jpg",
     iconLists: ["/React.png", "/css.png"],
     link: "https://wefitness-app.vercel.app/",
-  }
+  },{
+  id: 5,
+  title: "Wiqaya – Insurance Client Portal",
+  des: "A full-stack web application that enables clients to securely declare and track insurance claims (Auto, Home, Health). The platform integrates Keycloak for authentication, Flowable for workflow automation, and an AI module that assists administrators by analyzing claim images and generating decision-support reports.",
+  img: "/wiqaya.png",
+  iconLists: ["/React.png", "/spring.png", "/docker.webp", "/tail.svg", "/Python.png", "/scikit.png", "/Keycloak.png", "/selenium.png"],
+  link: "https://github.com/IskanderRomdhane/InsuranceApp",
+}
+
   
   
 ];
